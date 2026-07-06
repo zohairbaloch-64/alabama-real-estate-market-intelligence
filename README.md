@@ -2,7 +2,7 @@
 
 End-to-end data science project analyzing 7,805 sold residential properties across Alabama — covering market trends, geographic pricing patterns, negotiation dynamics, and two machine learning models built and validated against baselines.
 
-## Overvie
+## Overview
 
 Using a 2026 statewide dataset of sold listings, this project answers four practical questions:
 
